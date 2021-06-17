@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="find_username">Cari Username</string>
+    <string name="name_user">Nama</string>
+    <string name="repository">Repositori</string>
+    <string name="userName">username</string>
+    <string name="location">Lokasi</string>
+    <string name="company">Perusahaan</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="count">Count</string>
+    <string name="kosong">Kosong</string>
+    <string name="separator">Separator</string>
+    <string name="search">Cari</string>
+    <string name="choose">Kamu Memilih</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hallo Fragment Kosong</string>
+</resources>

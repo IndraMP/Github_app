@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="find_username">Find Username</string>
+    <string name="name_user">Name</string>
+    <string name="repository">Repository</string>
+    <string name="userName">username</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="count">Count</string>
+    <string name="kosong">Kosong</string>
+    <string name="separator">Separator</string>
+    <string name="search">Search</string>
+    <string name="choose">You Choose</string>
+    <string name="change_language_settings">Change Language Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
